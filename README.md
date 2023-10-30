@@ -12,3 +12,11 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+
+## AWS Services
+
+* `API Gateway`   compile typescript to js
+* `CDK`   compile typescript to js
+* `Dynamo DB`   compile typescript to js
+* `S3 bucket`   compile typescript to js

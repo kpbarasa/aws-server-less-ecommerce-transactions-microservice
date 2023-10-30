@@ -1,7 +1,7 @@
 # CDK TypeScript project: aws-server-less-ecommerce-transactions-microservice
-node js
-AWS serverles
-stripe
+* node js
+* Docker
+* AWS serverles
 
 ## Useful commands
 
@@ -32,8 +32,6 @@ stripe
 
 ### ENV
 
-- STRIPE_PUBLISHABLE_KEY=****\*\*****
-- STRIPE_SECRET_KEY=****\*\*****
 - SNS_TOPIC=order_consume-Topic
 - SNS_TOPIC_ARN=customer-topic
 

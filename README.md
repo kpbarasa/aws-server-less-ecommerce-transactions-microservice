@@ -18,5 +18,17 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 * `API Gateway`   compile typescript to js
 * `CDK`   compile typescript to js
+* `SNS`   compile typescript to js
+* `SQS`   compile typescript to js
 * `Dynamo DB`   compile typescript to js
 * `S3 bucket`   compile typescript to js
+
+### API Gateway
+
+* `API Gateway`   compile typescript to js
+
+### ENV
+
+* `API Gateway`   compile typescript to js
+*  STRIPE_PUBLISHABLE_KEY=**********
+*  STRIPE_SECRET_KEY==**********

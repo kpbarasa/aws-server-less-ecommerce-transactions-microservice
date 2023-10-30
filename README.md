@@ -1,5 +1,4 @@
-# CDK TypeScript project:
-## aws-server-less-ecommerce-transactions-microservice
+# CDK TypeScript project: aws-server-less-ecommerce-transactions-microservice
 node js
 AWS serverles
 stripe
